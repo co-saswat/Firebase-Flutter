@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "442894652223",
+    "firebase_url": "https://crypto-wallet-880c1.firebaseio.com",
+    "project_id": "crypto-wallet-880c1",
+    "storage_bucket": "crypto-wallet-880c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442894652223:android:20b98a200305a275f3798a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442894652223-i3u0qgpg725cp2l0s0uu5nkacmvoh41d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1l33l4fuP5098bf0u6uH2lfZl7I4Y5-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442894652223-i3u0qgpg725cp2l0s0uu5nkacmvoh41d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442894652223-ntttl70ur7mdeviuii92c51svsmol86v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
